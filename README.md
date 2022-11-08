@@ -1,4 +1,4 @@
-### Hi there 👋
+### Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=netwhynot&theme=dark&show_icons=true)
 
